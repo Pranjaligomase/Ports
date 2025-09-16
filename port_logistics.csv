@@ -1,0 +1,21 @@
+PortID,PortName,Country,ShipID,ShipName,ArrivalDate,DepartureDate,CargoType,CargoWeight
+1,Mumbai Port,India,S101,SeaWave,2023-01-01,2023-01-02,Oil,1200
+2,Chennai Port,India,S102,OceanQueen,2023-01-03,2023-01-04,Coal,1500
+3,Kochi Port,India,S103,BlueStar,2023-01-05,2023-01-07,Electronics,500
+4,Vizag Port,India,S104,SunCarrier,2023-01-08,2023-01-09,Grain,900
+5,Dubai Port,UAE,S105,GulfTrader,2023-01-10,2023-01-12,Oil,2000
+6,Jeddah Port,SaudiArabia,S106,DesertStar,2023-01-11,2023-01-13,Coal,1800
+7,Singapore Port,Singapore,S107,AsiaWave,2023-01-12,2023-01-13,Electronics,700
+8,Colombo Port,Sri Lanka,S108,LankaSpirit,2023-01-14,2023-01-15,Grain,600
+9,Karachi Port,Pakistan,S109,IndusCarrier,2023-01-16,2023-01-17,Oil,1700
+10,Durban Port,SouthAfrica,S110,AfricaQueen,2023-01-18,2023-01-20,Coal,2100
+11,London Port,UK,S111,AtlanticStar,2023-01-22,2023-01-23,Oil,1900
+12,New York Port,USA,S112,FreedomShip,2023-01-24,2023-01-25,Electronics,800
+13,Los Angeles,USA,S113,PacificWind,2023-01-26,2023-01-27,Coal,2200
+14,Shanghai Port,China,S114,RedDragon,2023-01-28,2023-01-29,Grain,1000
+15,Tokyo Port,Japan,S115,RisingSun,2023-01-30,2023-01-31,Oil,2500
+16,Busan Port,SouthKorea,S116,KoreaWave,2023-02-01,2023-02-02,Coal,2300
+17,Sydney Port,Australia,S117,OceanSpirit,2023-02-03,2023-02-04,Grain,1300
+18,Hamburg Port,Germany,S118,EuroCarrier,2023-02-05,2023-02-06,Oil,1600
+19,Rotterdam Port,Netherlands,S119,NorthSeaStar,2023-02-07,2023-02-08,Electronics,900
+20,Antwerp Port,Belgium,S120,EuroTrader,2023-02-09,2023-02-10,Coal,1400
