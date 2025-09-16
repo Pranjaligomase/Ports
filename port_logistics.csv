@@ -19,3 +19,4 @@ PortID,PortName,Country,ShipID,ShipName,ArrivalDate,DepartureDate,CargoType,Carg
 18,Hamburg Port,Germany,S118,EuroCarrier,2023-02-05,2023-02-06,Oil,1600
 19,Rotterdam Port,Netherlands,S119,NorthSeaStar,2023-02-07,2023-02-08,Electronics,900
 20,Antwerp Port,Belgium,S120,EuroTrader,2023-02-09,2023-02-10,Coal,1400
+21,mumbai Port ,India, S130,Intrader,2023-01-05,2023-03011,veg,1300
